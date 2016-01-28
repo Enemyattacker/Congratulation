@@ -1,0 +1,9 @@
+.picture{
+	background-image: url(ep.png);
+	display:block; 
+	margin:0 auto;
+	width:95%;
+	height:900px;
+	display:none;
+
+}
